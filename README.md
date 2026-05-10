@@ -42,4 +42,6 @@ A company wanted to identify customers likely to discontinue services and unders
 ---
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+<img width="1470" height="956" alt="dashboard_preview" src="https://github.com/user-attachments/assets/7c9057a9-4a7d-4bb7-a080-2f6035215de2" />
+
+
